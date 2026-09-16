@@ -1,13 +1,12 @@
-# Hajj, Umrah & Ziyarat Pilgrims Analysis (2000–2026)
+# Elswedy Electric Financial Dashboard
 
-A data analysis project exploring patterns in pilgrimage trips over a 26-year period, using a simulated dataset covering cost, visas, accommodation, and satisfaction ratings.
+مشروع ذكاء أعمال باستخدام Power BI لتحليل الأداء المالي لشركة السويدي.  
+الداشبورد بيقدم رؤية شاملة من خلال:
 
-## Dashboard Sections
-- 📈 Trends Over Time
-- 🌍 Geographic Comparison
-- 🕌 Trip Type Analysis
-- 👥 Demographics
-- 💰 Economic & Logistics
+- 📊 **Overview**: ملخص الإيرادات والأرباح  
+- 💰 **Financial Performance**: اتجاهات الإيرادات، الأرباح، والـ EBITDA  
+- 🏭 **Segment Analysis**: مقارنة القطاعات المختلفة ومساهمتها في الإيرادات  
+- 📈 **Financial Health**: مؤشرات الصحة المالية والهامش الربحي  
+- 💡 **Insights**: استنتاجات لدعم اتخاذ القرار
 
-## Key Insight
-No strong correlation was found between logistical factors (cost, visa processing, hotel quality) and overall satisfaction rating — suggesting satisfaction is driven by other, less quantifiable factors.
+**الفائدة:** يساعد الإدارة والباحثين على فهم الاتجاهات المالية للشركة بشكل تفاعلي وواضح.
